@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 About Me:
 Hey! I'm Maximiliano, an enthusiastic Computer Engineering student.<br><br>
 
 ## 🌐 Socials:
