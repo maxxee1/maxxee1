@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey! I'm Maximiliano, an enthusiastic Computer Engineering student.<br><br>💻 Currently, I'm immersed in my educational journey in Computer Engineering, where I'm acquiring strong skills in programming, networking, and systems.<br>🔐 My goal is to forge a path in the exciting world of cybersecurity, working to ensure the integrity and confidentiality of systems and data in an increasingly interconnected world.<br>
-
+Hey! I'm Maximiliano, an enthusiastic Computer Engineering student.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxxee._) 
