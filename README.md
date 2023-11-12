@@ -1,5 +1,5 @@
 # ⚡ About Me:
-Hey! I'm Maximiliano, an enthusiastic Computer Engineering student.<br><br>💻 I'm constantly learning new and emerging technologies. I like to acquire new knowledge and skills, but my goal is to focus on cybersecurity.<br><br><br> 
+Hey! I'm Maximiliano, an enthusiastic Computer Engineering student.<br><br>💻 I'm constantly learning new and emerging technologies. I like to acquire new knowledge and skills.<br><br><br> 
 
 
 ## 🌐 Socials:
@@ -14,6 +14,8 @@ Hey! I'm Maximiliano, an enthusiastic Computer Engineering student.<br><br>💻 
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## most sane gif
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=maxxee1&icon=7&color=10)](https://visitcount.itsvg.in)
