@@ -10,9 +10,3 @@ Hey! I'm Maximiliano, an enthusiastic Computer Engineering student.<br><br>💻 
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-## most sane gif
-
-
----
-[![](https://visitcount.itsvg.in/api?id=maxxee1&icon=7&color=10)](https://visitcount.itsvg.in)
-
