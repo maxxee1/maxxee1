@@ -1,6 +1,9 @@
 # ⚡ Sobre mi:
-Holaa! Soy Maximiliano, Actualmente me encuentro estudiando Inginieria Civil Informatica y Telecomunicaciones.<br><br>🚀 Me gusta estar en constante conocimiento y descubrimiento de nuevas tegnologias.<br><br><br> 
+Holaa! Soy Maximiliano, Actualmente me encuentro estudiando Inginieria Civil Informatica y Telecomunicaciones.<br><br>🚀 Me gusta estar en constante conocimiento y descubrimiento de nuevas tegnologias.<br><br><br>
 
+<!--## ✍️ Contacto:
+- ✉️ **Correo Electrónico:** [correo@dominio.com](mailto:correo@dominio.com)
+- 📱 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario/)-->
 ## 💻 Habilidades:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
