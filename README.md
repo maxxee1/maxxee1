@@ -2,7 +2,7 @@
 Holaa! Soy Maximiliano, Actualmente me encuentro estudiando Inginieria Civil Informatica y Telecomunicaciones.<br><br>🚀 Me gusta estar en constante conocimiento y descubrimiento de nuevas tegnologias.<br><br>
 
 ## 💻 Habiliadades:
-![](https://skillicons.dev/icons?i=cpp,python)
+![](https://skillicons.dev/icons?i=cpp,python,elixir)
 
 ## 📚 Aprendiendo:
 ![](https://skillicons.dev/icons?i=java,elixir)
