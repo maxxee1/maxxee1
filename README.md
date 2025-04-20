@@ -2,9 +2,9 @@
 Holaaa! I'm Maximiliano, and I am currently studying Computer Science and Telecommunications Engineering.<br><br>🚀 I enjoy constantly learning and discovering new technologies.<br><br>
 
 ## 💻 Languages:
-![](https://skillicons.dev/icons?i=cpp,python,java,sql)
+![](https://skillicons.dev/icons?i=cpp,python,java,postgres)
 ## 💻 Tools:
-![](https://skillicons.dev/icons?i=nginx,vscode,git,docker,postgres)
+![](https://skillicons.dev/icons?i=nginx,vscode,git,docker)
 ## 💻 OS & Frameworks:
 ![](https://skillicons.dev/icons?i=linux,windows,bootstrap,nodejs,express)
 
