@@ -4,7 +4,7 @@ Holaaa! I'm Maximiliano, and I am currently studying Computer Science and Teleco
 ## 💻 Languages:
 ![](https://skillicons.dev/icons?i=cpp,python,java,sql)
 ## 💻 Tools:
-![](https://skillicons.dev/icons?i=nginx,vscode,git,docker,wireshark)
+![](https://skillicons.dev/icons?i=nginx,vscode,git,docker,postgres)
 ## 💻 OS & Frameworks:
 ![](https://skillicons.dev/icons?i=linux,windows,bootstrap,nodejs,express)
 
