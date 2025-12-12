@@ -1,15 +1,128 @@
-# ⚡ About me:
-Holaaa! I'm Maximiliano, and I am currently studying Computer Science and Telecommunications Engineering.<br><br>🚀 I enjoy constantly learning and discovering new technologies.<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
-## 💻 Languages:
-![](https://skillicons.dev/icons?i=cpp,python,java,postgres)
-## 💻 Tools:
-![](https://skillicons.dev/icons?i=nginx,vscode,git,docker)
-## 💻 OS & Frameworks:
-![](https://skillicons.dev/icons?i=linux,windows,bootstrap,nodejs,express)
+<div align="center">
+  <samp>
+    <b>
+      It's gonna be Legen... wait for it... Dary!
+      <br>
+      Hola, I'm Maximiliano!
+      <br>
+    </b>
+  </samp>
+</div>
+<div align="center">
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ0aG1rZHpvbXE4eHc1ZHZ6Mzd0dWxlbGp5bm0xaWRqbG90eWcwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Asb0LwwJP9o9Y2VZip/giphy.gif" width="150">
+</div>
 
-## 📚 Learning:
-![](https://skillicons.dev/icons?i=aws,html,css,js,r)
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&duration=1500&pause=600&lines=I+am+from+Chile;Informatics+%26+Telecommunications+Engineering+Student;Currently+working+on+MPL+Machine+Learning;I+like+developing+algorithms;Learning+Cybersecurity" alt="Typing SVG"/>
+</div>
 
-## 🌐 Social Media:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.adonnis)   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/kGM82BPpeE)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/maxxeee/)
+
+
+
+
+
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <th width="25%" align="center">Languages</th>
+      <th width="25%" align="center">Tools & DevOps</th>
+      <th width="25%" align="center">OS & Frameworks </th>
+      <th width="25%" align="center">Learning</th>
+    </tr>
+    <tr>
+      <td width="25%" align="center" valign="top">
+        <br>
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
+        <img width="45" src="https://skillicons.dev/icons?i=py" />
+        <br>
+        <img width="45" src="https://skillicons.dev/icons?i=java" />
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
+        <br>
+      </td>
+      <td width="25%" align="center" valign="top">
+        <br>
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
+        <br>
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" />
+        <br>
+      </td>
+      <td width="25%" align="center" valign="top">
+        <br>
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" />
+        <img width="45" src="https://skillicons.dev/icons?i=bootstrap" />
+        <img width="45" src="https://skillicons.dev/icons?i=nodejs" />
+        <img width="45" src="https://skillicons.dev/icons?i=express" />
+        <br>
+        <br>
+      </td>
+      <td width="25%" align="center" valign="top">
+        <br>
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" />
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+        <br>
+        <br>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+
+<br>
+
+
+
+
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxxee1&theme=nord_dark" />
+      </td>
+      <td width="33%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxxee1&theme=nord_dark" />
+      </td>
+      <td width="33%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxxee1&theme=nord_dark&utcOffset=-3" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+
+<div align="center">
+
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/m.adonnis/)
+  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/eldiosjamshaa)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://cl.linkedin.com/in/maximilianosolorza)
+  [![TikTok](https://img.shields.io/badge/TikTok-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.tiktok.com/@maxxee)
+  
+  
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
