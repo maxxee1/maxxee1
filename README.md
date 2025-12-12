@@ -10,12 +10,14 @@
     </b>
   </samp>
 </div>
+
 <div align="center">
 </div>
-      
+
+
 <br>
 <br>
-      
+
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ0aG1rZHpvbXE4eHc1ZHZ6Mzd0dWxlbGp5bm0xaWRqbG90eWcwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Asb0LwwJP9o9Y2VZip/giphy.gif" width="150">
 </div>
@@ -73,12 +75,9 @@
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
         <br>
         <br>
+      </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/maxxee1/maxxee1/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
 
@@ -99,18 +98,18 @@
 </div>
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
 
 
 <div align="center">
-
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/m.adonnis/)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/eldiosjamshaa)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://cl.linkedin.com/in/maximilianosolorza)
-  [![TikTok](https://img.shields.io/badge/TikTok-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.tiktok.com/@maxxee)
-  
-  
+  <img width="100%" src="https://raw.githubusercontent.com/maxxee1/maxxee1/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
+<div align="center">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+[![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/m.adonnis/)
+[![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/eldiosjamshaa)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://cl.linkedin.com/in/maximilianosolorza)
+[![TikTok](https://img.shields.io/badge/TikTok-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.tiktok.com/@maxxee)
 
+</div>
