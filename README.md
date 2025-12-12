@@ -6,17 +6,9 @@
       It's gonna be Legen... wait for it... Dary!
       <br>
       Hola, I'm Maximiliano!
-      <br>
     </b>
   </samp>
 </div>
-
-<div align="center">
-</div>
-
-
-<br>
-<br>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ0aG1rZHpvbXE4eHc1ZHZ6Mzd0dWxlbGp5bm0xaWRqbG90eWcwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Asb0LwwJP9o9Y2VZip/giphy.gif" width="150">
