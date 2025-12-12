@@ -25,11 +25,6 @@
 </div>
 
 
-
-
-
-
-
 <div align="center">
   <table width="100%">
     <tr>
@@ -82,15 +77,9 @@
   </table>
 </div>
 
-
-
-
-
-
-<br>
-
-
-
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/maxxee1/maxxee1/output/github-snake-dark.svg" alt="snake gif" />
+</div>
 
 
 <div align="center">
@@ -112,8 +101,6 @@
 
 
 
-
-
 <div align="center">
 
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/m.adonnis/)
@@ -126,3 +113,4 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+
