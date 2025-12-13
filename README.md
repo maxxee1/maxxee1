@@ -15,7 +15,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=BF5AE0&width=900&size=21&center=true&duration=1500&pause=600&lines=I+am+from+Chile;Informatics+%26+Telecommunications+Engineering+Student;Currently+working+on+MPL+Machine+Learning;I+like+developing+algorithms;Learning+Cybersecurity" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=BF5AE0&width=900&size=21&center=true&duration=1500&pause=600&lines=I+am+from+Chile;Informatics+%26+Telecommunications+Engineering+Student;Currently+working+on+MLP+Machine+Learning;I+like+developing+algorithms;Learning+Cybersecurity" alt="Typing SVG"/>
 </div>
 
 <div align="center">
