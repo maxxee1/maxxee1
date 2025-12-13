@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6B1878"/>
 
 <div align="center">
   <samp>
@@ -15,9 +15,8 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&duration=1500&pause=600&lines=I+am+from+Chile;Informatics+%26+Telecommunications+Engineering+Student;Currently+working+on+MPL+Machine+Learning;I+like+developing+algorithms;Learning+Cybersecurity" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=BF5AE0&width=900&size=21&center=true&duration=1500&pause=600&lines=I+am+from+Chile;Informatics+%26+Telecommunications+Engineering+Student;Currently+working+on+MPL+Machine+Learning;I+like+developing+algorithms;Learning+Cybersecurity" alt="Typing SVG"/>
 </div>
-
 
 <div align="center">
   <table width="100%">
@@ -90,7 +89,7 @@
 </div>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=6B1878"/>
 
 
 <div align="center">
