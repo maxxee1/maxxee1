@@ -92,7 +92,7 @@
 | :--- | :--- | :--- |
 | **[MLP Grade Prediction](https://github.com/maxxee1/mlp-grade-prediction)** | Python FastAPI Scikit-Learn | • **Custom MLP:** One-Hot Encoding for categorical inputs.<br>• **Convergence:** Dynamic Target R² logic.<br>• **Backend:** Optimized inference API. |
 | **[Doom Thread Simulator](https://github.com/maxxee1/doom-thread-simulator)** | C Pthreads Mutex | • **Concurrency:** Simulates entities using POSIX threads.<br>• **Sync:** Manages race conditions (Hero vs. Monsters). |
-| **[Memory Paging Simulator](https://github.com/maxxee1/memory-simulator)** | C++ React OS Theory | • **Algorithms:** FIFO/LRU Page Faults & RAM/SWAP handling.<br>• **Visualization:** Real-time memory allocation UI. |
+| **[Memory Paging Simulator](https://github.com/maxxee1/memory-simulator)** | C++ React OS Theory | • **Algorithms:** FIFO Page Faults & RAM/SWAP handling.<br>• **Visualization:** Real-time memory allocation UI. |
 | **[Named Pipes Chat](https://github.com/maxxee1/named-pipes)** | C++ IPC Linux | • **IPC Arch:** Multi-process comms using Linux FIFOs.<br>• **Design:** Non-blocking I/O without threads. |
 
 <br>
