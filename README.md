@@ -12,57 +12,53 @@
 </div>
 
 <div align="center">
-  <table width="100%">
+  <table width="100%" style="border-collapse: collapse;">
     <tr>
-      <th width="25%" align="center">Languages</th>
-      <th width="25%" align="center">Tools & DevOps</th>
-      <th width="25%" align="center">OS & Frameworks </th>
-      <th width="25%" align="center">Front-end</th>
+      <th width="25%" align="center">Languages & Data</th>
+      <th width="25%" align="center">Infra & OS</th>
+      <th width="25%" align="center">Security & Tools</th>
+      <th width="25%" align="center">Web Stack</th>
     </tr>
     <tr>
       <td width="25%" align="center" valign="top">
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
+        <img width="40" src="https://skillicons.dev/icons?i=java" />
         <br>
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
-        <img width="45" src="https://skillicons.dev/icons?i=py" />
-        <img width="45" src="https://skillicons.dev/icons?i=java" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
-        <br>
+        <img width="40" src="https://skillicons.dev/icons?i=py" />
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
       </td>
       <td width="25%" align="center" valign="top">
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" />
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
         <br>
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" />
-        <img width="45" src="https://cdn.simpleicons.org/metasploit/333333" />
-        <br>
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" />
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" />
       </td>
       <td width="25%" align="center" valign="top">
+        <img width="40" src="https://skillicons.dev/icons?i=kali" alt="kali" />
+        <img width="40" src="https://cdn.simpleicons.org/metasploit/333333" />
+        <img width="40" src="https://cdn.simpleicons.org/burpsuite/FF6633" />
         <br>
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
-        <img width="45" src="https://skillicons.dev/icons?i=kali" alt="kali" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" />
-        <img width="45" src="https://skillicons.dev/icons?i=bootstrap" />
-        <img width="45" src="https://skillicons.dev/icons?i=nodejs" />
-        <img width="45" src="https://skillicons.dev/icons?i=express" />
-        <br>
+        <img width="40" src="https://cdn.simpleicons.org/wireshark/1679A7" />
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
       </td>
-      <td width="25%" align="center" valign="top">
-        <br>
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" />
-        <img width="45" src="https://cdn.simpleicons.org/burpsuite/FF6633" />
-        <br>
+       <td width="25%" align="center" valign="top">
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+        <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+         <br>
+        <img width="40" src="https://skillicons.dev/icons?i=nodejs" />
+        <img width="40" src="https://skillicons.dev/icons?i=express" />
+        <img width="40" src="https://skillicons.dev/icons?i=bootstrap" />
       </td>
     </tr>
   </table>
 </div>
-
 
 <div align="center">
   <table width="100%">
