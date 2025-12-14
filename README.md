@@ -79,14 +79,11 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="33%" align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maxxee1&theme=nord_dark" />
+      <td width="66%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxxee1&theme=nord_dark" />
       </td>
       <td width="33%" align="center">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxxee1&theme=nord_dark" />
-      </td>
-      <td width="33%" align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maxxee1&theme=nord_dark&utcOffset=-3" />
       </td>
     </tr>
   </table>
