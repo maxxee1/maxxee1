@@ -45,25 +45,29 @@
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
         <br>
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" />
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" />
+        <img width="45" src="https://cdn.simpleicons.org/metasploit/333333" height="40" alt="metasploit logo" />
         <br>
       </td>
       <td width="25%" align="center" valign="top">
         <br>
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
+        <img width="45" src="https://skillicons.dev/icons?i=kali" alt="kali" />
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" />
+         <br>
         <img width="45" src="https://skillicons.dev/icons?i=bootstrap" />
         <img width="45" src="https://skillicons.dev/icons?i=nodejs" />
         <img width="45" src="https://skillicons.dev/icons?i=express" />
-        <br>
         <br>
       </td>
       <td width="25%" align="center" valign="top">
         <br>
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" />
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+        <br>
+        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" />
+        <img width="45" src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="burpsuite logo" />
         <br>
         <br>
       </td>
@@ -87,7 +91,6 @@
     </tr>
   </table>
 </div>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=6B1878"/>
 
