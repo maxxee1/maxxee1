@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6B1878"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=390977"/>
 
 <h1 align="center">Hola, I'm Maximiliano!</h1>
 <h4 align="center">Computer & Telecommunications Engineering Student | Systems & Security Enthusiast</h4>
@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=BF5AE0&width=900&size=21&center=true&duration=2700&pause=180&lines=I'm+from+Chile;I'm+currently+working+on+MLP+Machine+Learning;Algorithm+Design+and+Optimization;It's+gonna+be+Legen...;wait+for+it...;Dary;Legendary!!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8957E5&width=900&size=21&center=true&duration=2700&pause=180&lines=I'm+from+Chile;I'm+currently+working+on+MLP+Machine+Learning;Algorithm+Design+and+Optimization;It's+gonna+be+Legen...;wait+for+it...;Dary;Legendary!!" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -113,4 +113,5 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=6B1878"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#390977"/>
+
