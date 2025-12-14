@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6B1878"/>
 
 <h1 align="center">Hola, I'm Maximiliano!</h1>
-  <h4 align="center">Computer & Telecommunications Engineering Student | Systems & Security Enthusiast</h4>
+<h4 align="center">Computer & Telecommunications Engineering Student | Systems & Security Enthusiast</h4>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ0aG1rZHpvbXE4eHc1ZHZ6Mzd0dWxlbGp5bm0xaWRqbG90eWcwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Asb0LwwJP9o9Y2VZip/giphy.gif" width="150">
@@ -12,7 +12,6 @@
 </div>
 
 <div align="center">
-
   <table width="100%">
     <tr>
       <th width="25%" align="center">Languages & Data</th>
@@ -83,9 +82,9 @@
     <summary>
       <kbd>
         <samp>
-        <b>click to view more</b>
-      </kbd>
+          <b>click to view more</b>
         </samp>
+      </kbd>
     </summary>
     <br>
         
@@ -95,13 +94,16 @@
 | **[Doom Thread Simulator](https://github.com/maxxee1/doom-thread-simulator)** | C Pthreads Mutex | • **Concurrency:** Simulates entities using POSIX threads.<br>• **Sync:** Manages race conditions (Hero vs. Monsters). |
 | **[Memory Paging Simulator](https://github.com/maxxee1/memory-simulator)** | C++ React OS Theory | • **Algorithms:** FIFO/LRU Page Faults & RAM/SWAP handling.<br>• **Visualization:** Real-time memory allocation UI. |
 | **[Named Pipes Chat](https://github.com/maxxee1/named-pipes)** | C++ IPC Linux | • **IPC Arch:** Multi-process comms using Linux FIFOs.<br>• **Design:** Non-blocking I/O without threads. |
+
 <br>
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/maxxee1/maxxee1/output/github-snake-dark.svg" alt="snake gif" />
-</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/maxxee1/maxxee1/output/github-snake-dark.svg" alt="snake gif" />
+
   </details>
 </div>
+
 <br>
+
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.adonnis/)
@@ -109,9 +111,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://cl.linkedin.com/in/maximilianosolorza)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@maxxee)
 
-<div align="center">
-  
 </div>
 
-</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=6B1878"/>
