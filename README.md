@@ -74,13 +74,14 @@
   </table>
 </div>
 
-
 <div align="center">
   <details>
     <summary>
+      <kbd>
       <samp>
         <b>💻 Projects Overview (Click to expand)</b>
       </samp>
+      </kbd>
     </summary>
     <br>
 
