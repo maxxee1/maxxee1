@@ -5,7 +5,7 @@
     <b>
       It's gonna be Legen... wait for it... Dary!
       <br>
-      Hola, I'm Maximiliano!
+      Hola, I'm Maximiliano
     </b>
   </samp>
 </div>
