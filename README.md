@@ -74,12 +74,34 @@
   </table>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=6B1878"/>
 
+<div align="center">
+  <details>
+    <summary>
+      <samp>
+        <b>💻 Projects Overview (Click to expand)</b>
+      </samp>
+    </summary>
+    <br>
 
+| Project | Tech Stack | Technical Highlights |
+| :--- | :--- | :--- |
+| **[MLP Grade Prediction](https://github.com/maxxee1/mlp-grade-prediction)** | `Python` `FastAPI` `Scikit-Learn` | • **Custom MLP:** One-Hot Encoding for categorical inputs.<br>• **Convergence:** Dynamic Target R² logic.<br>• **Backend:** Optimized inference API. |
+| **[Doom Thread Simulator](https://github.com/maxxee1/doom-thread-simulator)** | `C` `Pthreads` `Mutex` | • **Concurrency:** Simulates entities using POSIX threads.<br>• **Sync:** Manages race conditions (Hero vs. Monsters). |
+| **[Memory Paging Simulator](https://github.com/maxxee1/memory-simulator)** | `C++` `React` `OS Theory` | • **Algorithms:** FIFO/LRU Page Faults & RAM/SWAP handling.<br>• **Visualization:** Real-time memory allocation UI. |
+| **[Named Pipes Chat](https://github.com/maxxee1/named-pipes)** | `C++` `IPC` `Linux` | • **IPC Arch:** Multi-process comms using Linux FIFOs.<br>• **Design:** Non-blocking I/O without threads. |
+
+<br>
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/maxxee1/maxxee1/output/github-snake-dark.svg" alt="snake gif" />
 </div>
+
+  </details>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=6B1878"/>
+
+
 
 <div align="center">
 
