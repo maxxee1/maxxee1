@@ -1,21 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6B1878"/>
 
-<div align="center">
-  <samp>
-    <b>
-      It's gonna be Legen... wait for it... Dary!
-      <br>
-      Hola, I'm Maximiliano
-    </b>
-  </samp>
-</div>
+<h1 align="center">Holaa, I'm Maximiliano</h1>
+  <h4 align="center">Computer & Telecommunications Engineering Student | Systems & Security Enthusiast</h4>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ0aG1rZHpvbXE4eHc1ZHZ6Mzd0dWxlbGp5bm0xaWRqbG90eWcwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Asb0LwwJP9o9Y2VZip/giphy.gif" width="150">
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=BF5AE0&width=900&size=21&center=true&duration=1500&pause=600&lines=I+am+from+Chile;Informatics+%26+Telecommunications+Engineering+Student;Currently+working+on+MLP+Machine+Learning;I+like+developing+algorithms;Learning+Cybersecurity" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=BF5AE0&width=900&size=21&center=true&duration=2700&pause=180&lines=I'm+from+Chile;I'm+currently+working+on+MLP+Machine+Learning;Algorithm+Design+and+Optimization;It's+gonna+be+Legen...;wait+for+it...;Dary;Legendary!!" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -24,7 +17,7 @@
       <th width="25%" align="center">Languages</th>
       <th width="25%" align="center">Tools & DevOps</th>
       <th width="25%" align="center">OS & Frameworks </th>
-      <th width="25%" align="center">Learning</th>
+      <th width="25%" align="center">Front-end</th>
     </tr>
     <tr>
       <td width="25%" align="center" valign="top">
