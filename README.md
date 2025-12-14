@@ -46,7 +46,7 @@
         <br>
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" />
-        <img width="45" src="https://cdn.simpleicons.org/metasploit/333333" height="40" alt="metasploit logo" />
+        <img width="45" src="https://cdn.simpleicons.org/metasploit/333333" />
         <br>
       </td>
       <td width="25%" align="center" valign="top">
@@ -67,7 +67,7 @@
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
         <br>
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" />
-        <img width="45" src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="burpsuite logo" />
+        <img width="45" src="https://cdn.simpleicons.org/burpsuite/FF6633" />
         <br>
         <br>
       </td>
