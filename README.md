@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=6B1878"/>
 
-<h1 align="center">Holaa, I'm Maximiliano</h1>
+<h1 align="center">Hola, I'm Maximiliano!</h1>
   <h4 align="center">Computer & Telecommunications Engineering Student | Systems & Security Enthusiast</h4>
 
 <div align="center">
@@ -41,9 +41,9 @@
       </td>
       <td width="25%" align="center" valign="top">
         <img width="45" src="https://skillicons.dev/icons?i=kali" alt="kali" />
-        <img width="45" src="https://cdn.simpleicons.org/metasploit/333333" />
+        <img width="45" src="https://cdn.simpleicons.org/metasploit/0B77B8" />
         <img width="45" src="https://cdn.simpleicons.org/burpsuite/FF6633" />
-        <img width="45" src="https://cdn.simpleicons.org/wireshark/1679A7" />
+        <img width="45" src="https://cdn.simpleicons.org/wireshark/00BFFF" />
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
         <br>
