@@ -3,10 +3,6 @@
 <h1 align="center">Hola, I'm Maximiliano!</h1>
 <h4 align="center">Computer & Telecommunications Engineering Student | Systems & Security Enthusiast</h4>
 
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ0aG1rZHpvbXE4eHc1ZHZ6Mzd0dWxlbGp5bm0xaWRqbG90eWcwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Asb0LwwJP9o9Y2VZip/giphy.gif" width="150">
-</div>
-
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8957E5&width=900&size=21&center=true&duration=2700&pause=180&lines=I'm+from+Chile;I'm+currently+working+on+MLP+Machine+Learning;Algorithm+Design+and+Optimization;It's+gonna+be+Legen...;wait+for+it...;Dary;Legendary!!" alt="Typing SVG"/>
 </div>
