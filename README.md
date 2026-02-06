@@ -74,7 +74,7 @@
             <!-- Imagen arriba -->
             <td align="center" valign="top">
               <a href="https://github.com/insaid-labs">
-                <img src="https://github.com/insaid-labs.png" width="88" style="border-radius:30%; display:block; margin-bottom:10px;">
+                <img src="https://github.com/insaid-labs.png" width="78" style="border-radius:30%; display:block; margin-bottom:10px;">
               </a>
             </td>
           </tr>
