@@ -66,7 +66,7 @@
       <td width="58%" align="center">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxxee1&theme=tokyonight" />
       </td>
-      <td width="29%" align="center">
+      <td width="30%" align="center">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxxee1&theme=tokyonight" />
       <td width="12%" align="center" valign="top">
         <table height="100%" width="100%">
@@ -74,7 +74,7 @@
             <!-- Imagen arriba -->
             <td align="center" valign="top">
               <a href="https://github.com/insaid-labs">
-                <img src="https://github.com/insaid-labs.png" width="120" style="border-radius:30%; display:block; margin-bottom:10px;">
+                <img src="https://github.com/insaid-labs.png" width="90" style="border-radius:30%; display:block; margin-bottom:10px;">
               </a>
             </td>
           </tr>
