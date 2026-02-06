@@ -68,14 +68,25 @@
       </td>
       <td width="29%" align="center">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxxee1&theme=tokyonight" />
-      </td>
-      <td width="12%" align="center">
-        <a href="https://github.com/insaid-labs">
-          <img src="https://github.com/insaid-labs.png" width="100" style="border-radius:80%;"/><br/>
-        </a>
-        <a href="https://github.com/insaid-labs?tab=repositories">
-          <img src="https://img.shields.io/badge/Explore-390977?style=flat-square&logo=github&logoColor=white">
-        </a>
+      <td width="12%" align="center" valign="top">
+        <table height="100%" width="100%">
+          <tr>
+            <!-- Imagen arriba -->
+            <td align="center" valign="top">
+              <a href="https://github.com/insaid-labs">
+                <img src="https://github.com/insaid-labs.png" width="120" style="border-radius:30%; display:block; margin-bottom:10px;">
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <!-- Botón abajo -->
+            <td align="center" valign="bottom">
+              <a href="https://github.com/insaid-labs?tab=repositories">
+                <img src="https://img.shields.io/badge/Explore-390977?style=for-the-badge&logo=github&logoColor=white" style="width:100%; max-width:160px;">
+              </a>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
