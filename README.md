@@ -63,15 +63,24 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="66%" align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxxee1&theme=nord_dark" />
+      <td width="58%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxxee1&theme=tokyonight" />
       </td>
-      <td width="33%" align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxxee1&theme=nord_dark" />
+      <td width="29%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxxee1&theme=tokyonight" />
+      </td>
+      <td width="12%" align="center">
+        <a href="https://github.com/insaid-labs">
+          <img src="https://github.com/insaid-labs.png" width="100" style="border-radius:80%;"/><br/>
+        </a>
+        <a href="https://github.com/insaid-labs?tab=repositories">
+          <img src="https://img.shields.io/badge/Explore-390977?style=flat-square&logo=github&logoColor=white">
+        </a>
       </td>
     </tr>
   </table>
 </div>
+
 
 <div align="center">
   <h3>⬇️ Projects Overview ⬇️</h3>
