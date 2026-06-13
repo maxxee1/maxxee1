@@ -71,10 +71,6 @@
 </div>
 
 <div align="center">
-  <h3>⬇️ Projects Overview ⬇️</h3>
-</div>
-
-<div align="center">
   <details>
     <summary>
       <kbd>
@@ -85,29 +81,23 @@
     </summary>
     <br>
 
-|Project                                                                      |Tech Stack                 |Technical Highlights                                                                                                                                |
-|:----------------------------------------------------------------------------|:--------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------|
-|**[MLP Grade Prediction](https://github.com/maxxee1/mlp-grade-prediction)**  |Python FastAPI Scikit-Learn|• **Custom MLP:** One-Hot Encoding for categorical inputs.<br>• **Convergence:** Dynamic Target R² logic.<br>• **Backend:** Optimized inference API.|
-|**[Doom Thread Simulator](https://github.com/maxxee1/doom-thread-simulator)**|C Pthreads Mutex           |• **Concurrency:** Simulates entities using POSIX threads.<br>• **Sync:** Manages race conditions (Hero vs. Monsters).                              |
-|**[Memory Paging Simulator](https://github.com/maxxee1/memory-simulator)**   |C++ React OS Theory        |• **Algorithms:** FIFO Page Faults & RAM/SWAP handling.<br>• **Visualization:** Real-time memory allocation UI.                                     |
-|**[Named Pipes Chat](https://github.com/maxxee1/named-pipes)**               |C++ IPC Linux              |• **IPC Arch:** Multi-process comms using Linux FIFOs.<br>• **Design:** Non-blocking I/O without threads.                                           |
-
-<br>
 
 <img width="100%" src="https://raw.githubusercontent.com/maxxee1/maxxee1/output/github-snake-dark.svg" alt="snake gif" />
+
+
+<div align="center">
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@m.adonnis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://cl.linkedin.com/in/maximilianosolorza)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.adonnis/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eldiosjamshaa)
+
+
+</div>
 
   </details>
 </div>
 
-<!-- <div align="center">
 
-<br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.adonnis/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eldiosjamshaa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://cl.linkedin.com/in/maximilianosolorza)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@maxxee)
-
-</div> -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=390977"/>
