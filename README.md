@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hola, I'm Maximiliano!</h1>
-<h4 align="center">Computer & Telecommunications Engineering Student | Systems & Security Enthusiast</h4>
+<h3 align="center">Computer & Telecommunications Engineering Student | Systems & Security Enthusiast</h4>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8957E5&width=900&size=21&center=true&duration=2700&pause=180&lines=I'm+from+Chile;I'm+currently+working+on+MLP+Machine+Learning;Algorithm+Design+and+Optimization;It's+gonna+be+Legen...;wait+for+it...;Dary;Legendary!!" alt="Typing SVG"/>
