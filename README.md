@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=390977"/>
 
 <h1 align="center">Hola, I'm Maximiliano!</h1>
-<h3 align="center">Computer & Telecommunications Engineering Student | Systems & Security Enthusiast</h3>
+<h3 align="center">Computer & Telecommunications Engineering Student | Cybersecurity & AI</h3>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8957E5&width=900&size=21&center=true&duration=2700&pause=180&lines=I'm+from+Chile;I'm+currently+working+on+MLP+Machine+Learning;Algorithm+Design+and+Optimization;It's+gonna+be+Legen...;wait+for+it...;Dary;Legendary!!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8957E5&width=900&size=21&center=true&duration=2700&pause=180&lines=I'm+from+Chile;Cybersecurity+powered+by+AI;Secure+web+apps+%2B+ML+%2B+network+traffic;It's+gonna+be+Legen...;wait+for+it...;Dary;Legendary!!" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -17,21 +17,25 @@
     </tr>
     <tr>
       <td width="25%" align="center" valign="top">
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" />
+        <img width="45" src="https://skillicons.dev/icons?i=cpp" />
+        <img width="45" src="https://skillicons.dev/icons?i=c" />
         <img width="45" src="https://skillicons.dev/icons?i=py" />
         <img width="45" src="https://skillicons.dev/icons?i=java" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" />
+        <img width="45" src="https://skillicons.dev/icons?i=fastapi" />
+        <img width="45" src="https://skillicons.dev/icons?i=postgres" />
+        <img width="45" src="https://skillicons.dev/icons?i=mongodb" />
+        <img width="45" src="https://skillicons.dev/icons?i=redis" />
         <br>
       </td>
       <td width="25%" align="center" valign="top">
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" />
+        <img width="45" src="https://skillicons.dev/icons?i=gcp" />
+        <img width="45" src="https://skillicons.dev/icons?i=aws" />
+        <img width="45" src="https://skillicons.dev/icons?i=docker" />
+        <img width="45" src="https://skillicons.dev/icons?i=kubernetes" />
+        <img width="45" src="https://skillicons.dev/icons?i=nginx" />
+        <img width="45" src="https://skillicons.dev/icons?i=vercel" />
+        <img width="45" src="https://skillicons.dev/icons?i=linux" />
+        <img width="45" src="https://skillicons.dev/icons?i=bash" />
         <br>
       </td>
       <td width="25%" align="center" valign="top">
@@ -40,16 +44,18 @@
         <img width="45" src="https://cdn.simpleicons.org/burpsuite/FF6633" />
         <img width="45" src="https://cdn.simpleicons.org/wireshark/00BFFF" />
         <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
+        <img width="45" src="https://skillicons.dev/icons?i=vscode" />
         <br>
       </td>
       <td width="25%" align="center" valign="top">
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-        <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+        <img width="45" src="https://skillicons.dev/icons?i=react" />
+        <img width="45" src="https://skillicons.dev/icons?i=nextjs" />
+        <img width="45" src="https://skillicons.dev/icons?i=ts" />
+        <img width="45" src="https://skillicons.dev/icons?i=tailwind" />
+        <img width="45" src="https://skillicons.dev/icons?i=js" />
         <img width="45" src="https://skillicons.dev/icons?i=nodejs" />
         <img width="45" src="https://skillicons.dev/icons?i=express" />
-        <img width="45" src="https://skillicons.dev/icons?i=bootstrap" />
+        <img width="45" src="https://skillicons.dev/icons?i=html" />
         <br>
       </td>
     </tr>
