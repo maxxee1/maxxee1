@@ -60,10 +60,10 @@
   <table width="100%">
     <tr>
       <td width="65%" align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxxee1&theme=tokyonight" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maxxee1&theme=tokyonight" />
       </td>
       <td width="35%" align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxxee1&theme=tokyonight" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maxxee1&theme=tokyonight" />
       </td>
     </tr>
   </table>
